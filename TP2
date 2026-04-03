@@ -1,1 +1,95 @@
-
+</html><!DOCTYPE html>
+<html>
+<head>
+ <title>Mon emploi du temps</title>
+</head>
+<body>
+<h2>Emploi du temps</h2>
+<table border="1">
+<tr>
+ <th>Heure</th>
+ <th>9h A 10h30</th>
+ <th>10h30 A 12h</th>
+ <th>12h15 A 13h45</th>
+ <th> 13h45 A 15h15</th>
+ <th>15h30 A 17h</th>
+ <th>17h A 18h30</th>
+</tr>
+<tr>
+ <td>Lundi</td>
+ <td>Programmation Python 2 <a href="test.html.txt">Prof M.Laraqui</a></td>
+ <td>Algorithmes Et
+Programmation C2 <a href="test.html.txt">Prof H.Oudani</a></td>
+<td></td>
+ <td>Algorithmes Et
+Programmation C 2 <a href="test.html.txt">Prof M.Laraqui</a>
+Td/Tp Grp1</td>
+ <td>Programmation Python 2 <a href="test.html.txt">Prof A. Elouardi</a> 
+Td/Tp Grp 3</td>
+ <td>Programmation Python 2 <a href="test.html.txt">Prof A. Elouardi</a> 
+Td/Tp Grp 2</td>
+</tr>
+<tr>
+ <td>Mardi</td>
+ <td>Programmation Python2 <a href="test.html.txt">Prof A. Elouardi</a> 
+Td/Tp Grp </td>
+ <td></td>
+ <td>Digital Skills &
+Intelligence Artificielle <a href="test.html.txt">Prof A. Elouardi</a>  
+</td>
+ <td>Digital Skills &
+Intelligence Artificielle  <a href="test.html.txt">Prof A. Elouardi</a> 
+Td/Tp</td>
+ <td></td>
+ <td></td>
+</tr>
+<tr>
+ <td>Mercredi</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td>Algorithmes Et
+Programmation C 2 <a href="test.html.txt">Prof Prof H.Oudani</a>
+Td/Tp Grp2</td>
+ <td>Algèbre 2 Prof  <a href="test.html.txt">Prof I.Boutaayamo</a>
+TD</td>
+ <td>Analyse 2 Prof <a href="test.html.txt">Prof A.Hadri</a>
+Td</td>
+</tr>
+</tr>
+<tr>
+ <td>Jeudi</td>
+ <td>Traitement Du Signal
+Cours <a href="test.html.txt">Prof H.Azzahhafi</a></td>
+ <td>Traitement Du Signal
+TD <a href="test.html.txt">Prof H.Azzahhafi</a></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+</tr>
+<tr>
+ <td>Vendredi</td>
+ <td>Algèbre 2 <a href="test.html.txt">Prof I.Boutaayamo</a>
+</td>
+ <td>Analyse 2 <a href="test.html.txt">Prof  A.Hadri</a>
+</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <tr>
+</tr>
+ <td>Samedi</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td>Programmation Web 1
+Td/Tp G2 <a href="test.html.txt">Prof A.Hakem</a></td>
+ <td>Programmation Web 1 <a href="test.html.txt">Prof K.Omari</a> </td>
+ <td>Programmation Web 1
+Td/Tp G1 <a href="test.html.txt">Prof K.Omari</a></td>
+</tr>
+</table>
+</body>
+</html>
